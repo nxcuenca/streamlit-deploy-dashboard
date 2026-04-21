@@ -61,7 +61,7 @@ def ver_detalle(titulo):
 
 # Sidebar con filtros
 with st.sidebar:
-    st.title("Netflix Dashboard")
+    st.title("Netflix Dashboard - Curso Bootcamp")
     st.divider()
 
     st.caption("TIPO")
